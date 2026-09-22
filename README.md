@@ -1,24 +1,27 @@
-# Digital Logic Design
+# CE118 — Thiết kế luận lý số
 
-## About
+*An English version will be added soon!*
 
-This repository contains my work for the practical sessions of the "Digital Logic Design" course, which I'll be taking in Semester I of the 2026-2027 academic year (09/2026 - 12/2026). I'll be updating the lab exercises regularly throughout the course.
-
-The practical exercises here are all based on the sample instructions provided by the instructor. However, while working through them, I'll try to explain what I've done in a way that's as clear and accessible as possible for the reader.
-
-This is part of my journey to learn how to use GitHub more professionally, to help with my future career.
-
-**Status:** Updating the lab list...
+## Về repo này
+Đây là repo ghi lại quá trình thực hành của mình đối với môn **Thiết kế luận lý số** mà mình đã học vào HK1 năm học 2026-2027 (09/2026 - 12/2026). Mình sẽ cập nhật nội dung thực hiện các bài lab của mình thường xuyên theo đúng tiến độ môn học. 
 
 ---
 
-## Labs
+## Danh sách lab
+- [ ] [Lab 1 — Thiết kế mạch đếm đồng bộ có khả năng nạp giá trị ban đầu (đồng bộ/bất đồng bộ)](Lab_1/) *(đang tiến hành)*
 
-- [ ] Lab 1
-- [ ] Lab 2
-- [ ] Lab 3
-- [ ] Lab 4
-- [ ] Lab 5
-- [ ] Lab 6
+*các lab khác sẽ được cập nhật theo thời gian...*
 
-<!-- Sau này nhớ tìm hiểu để link Lab vào file/folder tương ứng, ví dụ: - - [ ] [Lab 1](./Lab1/) -->
+---
+
+## Cách mình làm repo này
+Những bài thực hành mà mình làm ở đây đều đã được hướng dẫn bởi giảng viên với tài liệu có sẵn - không phải do mình tự nghĩ ra. Tuy nhiên, trong quá trình thực hiện, mình sẽ luôn cố gắng giải thích tất cả những gì mình đã làm theo cách dễ hiểu, dễ tiếp cận nhất đối với người đọc - không phải chỉ là "làm cho có, cho xong bài". 
+
+Mình đặt mục tiêu là phải thực sự hiểu thứ mình học và thứ mình làm. Kể cả khi được hướng dẫn thì cũng phải hiểu "tại sao nó là như vậy", chứ không phải "do người ta nói vậy nên nó là như vậy".
+
+## Ghi chú
+Repo này vẫn đang trong quá trình hoàn thiện, với các nội dung thực hành được cập nhật đều đặn theo thời gian khi mình học đến. 
+
+---
+
+👉 Xem thêm về mình tại [GitHub Profile](https://github.com/khoi-phantuan)
