@@ -1,0 +1,33 @@
+# Quartus generated database & cache
+db/
+incremental_db/
+greybox_tmp/
+hc_output/
+PLLJ_*/
+
+# Compilation output (report, log, bitstream — đều regenerate được từ source)
+output_files/
+*.rpt
+*.summary
+*.smsg
+*.done
+*.qarlog
+
+# Simulation output
+simulation/
+
+# Programming/bitstream files — nặng, binary, sinh lại được mỗi lần compile
+*.sof
+*.pof
+*.jic
+*.jam
+*.jbc
+*.svf
+
+# Workspace (chỉ lưu layout cửa sổ, không phải logic mạch)
+*.qws
+
+# Backup files Quartus tự tạo
+*.bak
+*.txt.bak
+*.$$$
