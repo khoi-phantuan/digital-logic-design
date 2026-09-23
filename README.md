@@ -8,9 +8,14 @@
 ---
 
 ## Danh sách lab
-- [ ] [Lab 1 — Thiết kế mạch đếm đồng bộ có khả năng nạp giá trị ban đầu (đồng bộ/bất đồng bộ)](Lab_1/) *(đang tiến hành)*
+- [ ] [Lab 1 — Thiết kế mạch đếm đồng bộ có khả năng nạp giá trị ban đầu](Lab_1/) *(đang tiến hành)*
+- [ ] [Lab 2 — Thiết kế mạch tuần tự bằng mô hình máy trạng thái hữu hạn](Lab_2/)
+- [ ] [Lab 3 — Thiết kế mạch tổ hợp tính toán](Lab_3/)
+- [ ] [Lab 4 — Thiết kế Datapath/Control Unit](Lab_4/)
+- [ ] [Lab 5 — Thiết kế Datapath/Control Unit (tiếp theo)](Lab_5/)
+- [ ] [Lab 6 — Thiết kế bộ xử lý MIPS đơn giản](Lab_6/)
 
-*các lab khác sẽ được cập nhật theo thời gian...*
+*nội dung các lab sau sẽ được cập nhật theo thời gian...*
 
 ---
 
