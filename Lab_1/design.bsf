@@ -30,6 +30,27 @@ applicable agreement for further details.
 		(text "CLK" (rect 21 27 44 41)(font "Arial" (font_size 8)))
 		(line (pt 0 32)(pt 16 32))
 	)
+	(port
+		(pt 96 32)
+		(output)
+		(text "Q2" (rect 0 0 16 14)(font "Arial" (font_size 8)))
+		(text "Q2" (rect 59 27 75 41)(font "Arial" (font_size 8)))
+		(line (pt 96 32)(pt 80 32))
+	)
+	(port
+		(pt 96 48)
+		(output)
+		(text "Q1" (rect 0 0 16 14)(font "Arial" (font_size 8)))
+		(text "Q1" (rect 59 43 75 57)(font "Arial" (font_size 8)))
+		(line (pt 96 48)(pt 80 48))
+	)
+	(port
+		(pt 96 64)
+		(output)
+		(text "Q0" (rect 0 0 16 14)(font "Arial" (font_size 8)))
+		(text "Q0" (rect 59 59 75 73)(font "Arial" (font_size 8)))
+		(line (pt 96 64)(pt 80 64))
+	)
 	(drawing
 		(rectangle (rect 16 16 80 80))
 	)
