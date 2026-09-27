@@ -39,7 +39,7 @@ applicable agreement for further details.
 	(input)
 	(rect 544 248 712 264)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "EN" (rect 5 0 21 12)(font "Arial" ))
+	(text "EN" (rect 5 0 20 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -55,7 +55,7 @@ applicable agreement for further details.
 	(input)
 	(rect 536 288 704 304)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "I2" (rect 5 0 15 12)(font "Arial" ))
+	(text "I2" (rect 5 0 14 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -71,7 +71,7 @@ applicable agreement for further details.
 	(input)
 	(rect 544 328 712 344)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "I1" (rect 5 0 15 12)(font "Arial" ))
+	(text "I1" (rect 5 0 14 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -87,7 +87,7 @@ applicable agreement for further details.
 	(input)
 	(rect 544 376 712 392)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "I0" (rect 5 0 15 12)(font "Arial" ))
+	(text "I0" (rect 5 0 14 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -150,7 +150,7 @@ applicable agreement for further details.
 (symbol
 	(rect 920 328 1016 456)
 	(text "design" (rect 5 0 42 14)(font "Arial" (font_size 8)))
-	(text "inst" (rect 8 112 25 124)(font "Arial" ))
+	(text "inst1" (rect 8 112 31 124)(font "Arial" ))
 	(port
 		(pt 0 32)
 		(input)
