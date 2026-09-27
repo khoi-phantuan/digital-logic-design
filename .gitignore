@@ -31,3 +31,16 @@ simulation/
 *.bak
 *.txt.bak
 *.$$$
+
+# Design database backup (bản mới hơn của db/ ở một số version)
+*.qdb
+
+# SignalTap logic analyzer — file cấu hình debug, không phải thiết kế gốc
+*.sld
+
+# OS junk
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
