@@ -150,7 +150,7 @@ applicable agreement for further details.
 (symbol
 	(rect 920 328 1016 456)
 	(text "design" (rect 5 0 42 14)(font "Arial" (font_size 8)))
-	(text "inst1" (rect 8 112 31 124)(font "Arial" ))
+	(text "inst" (rect 8 112 25 124)(font "Arial" ))
 	(port
 		(pt 0 32)
 		(input)
