@@ -1,3 +1,4 @@
+/* Simulator = Quartus II Simulator */
 /*
 WARNING: Do NOT edit the input and output ports in this file in a text
 editor if you plan to continue editing the block that represents it in
@@ -72,7 +73,7 @@ SIGNAL("Q2")
 	PARENT = "";
 }
 
-GROUP("output")
+GROUP("state")
 {
 	MEMBERS = "Q2", "Q1", "Q0";
 }
@@ -129,7 +130,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "output";
+	CHANNEL = "state";
 	EXPAND_STATUS = EXPANDED;
 	RADIX = Binary;
 	TREE_INDEX = 1;
