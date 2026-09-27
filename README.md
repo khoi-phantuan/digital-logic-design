@@ -3,7 +3,7 @@
 *An English version will be added soon!*
 
 ## Về repo này
-Đây là repo ghi lại quá trình thực hành của mình đối với môn **Thiết kế luận lý số** mà mình đã học vào HK1 năm học 2026-2027 (09/2026 - 12/2026). Mình sẽ cập nhật nội dung thực hiện các bài lab của mình thường xuyên theo đúng tiến độ môn học. 
+Đây là repo ghi lại quá trình thực hành của mình đối với môn **Thiết kế luận lý số** mà mình đang học vào HK1 năm học 2026-2027 (09/2026 - 12/2026). Mình sẽ cập nhật nội dung thực hiện các bài lab của mình thường xuyên theo đúng tiến độ môn học. 
 
 ---
 
@@ -16,6 +16,12 @@
 - [ ] [Lab 6 — Thiết kế bộ xử lý MIPS đơn giản](Lab_6/)
 
 *nội dung các lab sau sẽ được cập nhật theo thời gian...*
+
+---
+
+## Môi trường & Công cụ
+- **Phần mềm**: Quartus II 13.0sp1 (64-bit) — Web Edition
+- **Kit thực hành**: Kit Altera DE2
 
 ---
 
