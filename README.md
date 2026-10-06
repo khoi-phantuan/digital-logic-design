@@ -1,38 +1,27 @@
 # CE118 — Thiết kế luận lý số
 
-*An English version will be added soon!*
+> 👉 Mình là Khôi, sinh viên ngành Kỹ thuật máy tính tại UIT. Xem thêm về mình tại [GitHub Profile](https://github.com/khoi-phantuan).
 
 ## Về repo này
-Đây là repo ghi lại quá trình thực hành của mình đối với môn **Thiết kế luận lý số** mà mình đang học vào HK1 năm học 2026-2027 (09/2026 - 12/2026). Mình sẽ cập nhật nội dung thực hiện các bài lab của mình thường xuyên theo đúng tiến độ môn học. 
+Đây là repo ghi lại quá trình thực hành của mình đối với môn **Thiết kế luận lý số** mà mình học ở HK1 năm học 2026-2027 (09/2026 - 12/2026), kèm phần giải thích về những gì đã làm theo cách mình hiểu.
+
+Mình thực hiện các bài thực hành này cá nhân theo tài liệu hướng dẫn của giảng viên, và sẽ cập nhật nội dung dần theo đúng tiến độ môn học.
+
+**Trạng thái:** ⬜ Chưa thực hiện · 🟡 Đang thực hiện · ✅ Đã hoàn thành
 
 ---
 
 ## Danh sách lab
-- [ ] [Lab 1 — Thiết kế mạch đếm đồng bộ có khả năng nạp giá trị ban đầu](Lab_1/) *(đang tiến hành)*
-- [ ] [Lab 2 — Thiết kế mạch tuần tự bằng mô hình máy trạng thái hữu hạn](Lab_2/)
-- [ ] [Lab 3 — Thiết kế mạch tổ hợp tính toán](Lab_3/)
-- [ ] [Lab 4 — Thiết kế Datapath/Control Unit](Lab_4/)
-- [ ] [Lab 5 — Thiết kế Datapath/Control Unit (tiếp theo)](Lab_5/)
-- [ ] [Lab 6 — Thiết kế bộ xử lý MIPS đơn giản](Lab_6/)
-
-*nội dung các lab sau sẽ được cập nhật theo thời gian...*
+- ✅ [Lab 1 — Thiết kế mạch đếm đồng bộ có khả năng nạp giá trị ban đầu](Lab_1/) *(21/09 - 25/09)*
+- ⬜ [Lab 2 — Thiết kế máy trạng thái hữu hạn](Lab_2/)
+- ⬜ [Lab 3 — Thiết kế mạch tổ hợp phục vụ tính toán](Lab_3/)
+- ⬜ [Lab 4-5 — Thiết kế Datapath/Control Unit](Lab_4-5/)
+- ⬜ [Lab 6 — Thiết kế bộ xử lý MIPS đơn giản](Lab_6/)
 
 ---
 
 ## Môi trường & Công cụ
-- **Phần mềm**: Quartus II 13.0sp1 (64-bit) — Web Edition
-- **Kit thực hành**: Kit Altera DE2
+- **Môi trường**: Quartus II 13.0sp1 (64-bit) — Web Edition
+- **Mô phỏng**: Quartus II Simulator (tích hợp sẵn trong Quartus)
 
----
-
-## Cách mình làm repo này
-Những bài thực hành mà mình làm ở đây đều đã được hướng dẫn bởi giảng viên với tài liệu có sẵn - không phải do mình tự nghĩ ra. Tuy nhiên, trong quá trình thực hiện, mình sẽ luôn cố gắng giải thích tất cả những gì mình đã làm theo cách dễ hiểu, dễ tiếp cận nhất đối với người đọc - không phải chỉ là "làm cho có, cho xong bài". 
-
-Mình đặt mục tiêu là phải thực sự hiểu thứ mình học và thứ mình làm. Kể cả khi được hướng dẫn thì cũng phải hiểu "tại sao nó là như vậy", chứ không phải "do người ta nói vậy nên nó là như vậy".
-
-## Ghi chú
-Repo này vẫn đang trong quá trình hoàn thiện, với các nội dung thực hành được cập nhật đều đặn theo thời gian khi mình học đến. 
-
----
-
-👉 Xem thêm về mình tại [GitHub Profile](https://github.com/khoi-phantuan)
+*(sẽ bổ sung thêm khi học đến các lab sau, nếu cần)*
