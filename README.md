@@ -13,7 +13,7 @@ Mình thực hiện các bài thực hành này cá nhân theo tài liệu hư�
 
 ## Danh sách lab
 - ✅ [Lab 1 — Thiết kế mạch đếm đồng bộ có khả năng nạp giá trị ban đầu](Lab_1/) *(21/09 - 25/09)*
-- ⬜ [Lab 2 — Thiết kế máy trạng thái hữu hạn](Lab_2/)
+- 🟡 [Lab 2 — Thiết kế máy trạng thái hữu hạn](Lab_2/)
 - ⬜ [Lab 3 — Thiết kế mạch tổ hợp phục vụ tính toán](Lab_3/)
 - ⬜ [Lab 4-5 — Thiết kế Datapath/Control Unit](Lab_4-5/)
 - ⬜ [Lab 6 — Thiết kế bộ xử lý MIPS đơn giản](Lab_6/)
@@ -23,5 +23,6 @@ Mình thực hiện các bài thực hành này cá nhân theo tài liệu hư�
 ## Môi trường & Công cụ
 - **Môi trường**: Quartus II 13.0sp1 (64-bit) — Web Edition
 - **Mô phỏng**: Quartus II Simulator (tích hợp sẵn trong Quartus)
+- **Thiết bị**: Kit Altera DE2
 
 *(sẽ bổ sung thêm khi học đến các lab sau, nếu cần)*
