@@ -43,6 +43,7 @@ Với Q+ là giá trị (mong muốn) của Q tại xung clock kế tiếp.
 | 1 | 1 | 0 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 | 1 | 1 |
 
+- Trong bảng này, ta điền đủ cả 8 trạng thái (bao gồm cả những trạng thái bên ngoài chu trình), nên mạch được thiết kế sẽ luôn quay về đúng chu trình bất kể trạng thái ban đầu là gì.
 - Kết hợp với bảng kích thích của FF-T bên trên, ta có bảng kích thích của cả 3 FF-T như sau:
 
 | Q2 | Q1 | Q0 | Q2+ | Q1+ | Q0+ | T2 | T1 | T0 |
@@ -107,7 +108,7 @@ Ta thấy mạch tuân theo chính xác chu trình đếm đã cho: Từ state n
 **010:**  
 ![Mô phỏng](images/waveform_010.png)  
 
-Ta thấy trạng thái của mạch đều đi theo đúng chu trình đã cho.
+Như vậy, ta đã kiểm tra hoạt động của mạch với mọi trạng thái ban đầu ngoài chu trình đếm. Kết quả là mạch đều quay về đúng chu trình đếm đã cho.
 
 ## Khó khăn và cách giải quyết
 | Khó khăn | Cách giải quyết |
@@ -120,7 +121,7 @@ Ta thấy trạng thái của mạch đều đi theo đúng chu trình đã cho.
 ## Mình đã học được gì?
 - Entity là một thiết kế hoàn chỉnh, được đóng gói lại để làm thành phần cho một entity cấp cao hơn (trừ top-level entity). Một thiết kế Quartus sẽ có nhiều entity với các cấp bậc khác nhau.
 - Trong các entity đã thiết kế, phải có một entity trùng tên hoàn toàn với top-level entity đã khai báo - tức entity đó chính là top-level. Nếu project không có bất cứ top-level entity nào, trình biên dịch sẽ báo lỗi.
-- File .vwf chỉ có hiệu lực với một phiên bản thiết kế tại một thời điểm. Nếu sau đó mạch thay đổi, ta phải tạo lại file .vwf mới tương ứng để mô phỏng hành vi của nó.
+- File .vwf chỉ lưu danh sách tín hiệu và dạng sóng đầu vào tại một thời điểm. Nếu sau đó mạch thay đổi (đặt tên tín hiệu, thêm bớt cổng,...), ta phải cập nhật lại danh sách tín hiệu đó.
 - Để ý kĩ trạng thái của các tín hiệu tại các thời điểm khác nhau khi mô phỏng.
 - Luôn kiểm tra lại bảng kích thích và bảng chuyển trạng thái trước khi vẽ bìa Karnaugh để tìm phương trình ngõ vào.
 
